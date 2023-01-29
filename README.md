@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArtemZarubin
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c/c++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on create app
 - 📫 How to reach me: zarubinartem652@gmail.com
 
