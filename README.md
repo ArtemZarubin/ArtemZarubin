@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/artem56136126" target="blank"><img src="https://img.shields.io/twitter/follow/artem56136126?logo=twitter&style=for-the-badge" alt="artem56136126" /></a> </p>
 
+[![wakatime](https://wakatime.com/badge/user/2509b9ea-8443-40e2-b402-41aceb195b25.svg)](https://wakatime.com/@2509b9ea-8443-40e2-b402-41aceb195b25)
+
 - 🔭 I’m currently working on **Everest**
 
 - 🌱 I’m currently learning **Java and Kotlin**
