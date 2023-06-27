@@ -10,7 +10,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/2509b9ea-8443-40e2-b402-41aceb195b25.svg)](https://wakatime.com/@2509b9ea-8443-40e2-b402-41aceb195b25)
 
-- 🔭 I’m currently working on **Everest**
+- 🔭 I’m currently working on **???**
 
 - 🌱 I’m currently learning **Kotlin**
 
@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/artem-zarubin-15184b243/](https://www.linkedin.com/in/artem-zarubin-15184b243/)
 
-- ⚡ Fun fact **I am a professional athlete**
+- ⚡ Interesting fact **I am a professional athlete**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
